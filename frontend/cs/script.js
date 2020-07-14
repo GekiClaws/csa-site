@@ -2,6 +2,7 @@ window.onload = function(){
     
 }
 
+// Carousel 1
 $('#carouselExample').on('slide.bs.carousel', function (e) {
 
     /*
