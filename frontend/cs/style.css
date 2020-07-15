@@ -26,10 +26,10 @@ h3{
     color:azure;
 }
 .subtitle{
-    margin: 30px 0 0 10px;
+    padding: 30px 0 20px 0;
 }
 .page-description{
-    padding: 10px 0 0 20px;
+    padding: 10px 0 20px 0;
 }
 .card-deck{
     margin-top: 3vh;
@@ -41,8 +41,27 @@ h3{
     height: 15vw;
     object-fit: cover;
 }
+.company-img{
+    height: 10vw;
+}
+@media (max-width: 768px){
+    .company-img{
+        height: 25vh;
+    }
+}
+#index-title{
+    margin-right:0px;
+    margin-left:0px;
+}
+.btn{
+    width:80%;
+    margin: 1em 0 1em 0;
+}
 .col-12{
     padding: 0 0 0 0;
+}
+.round-25{
+    border-radius: 25px;
 }
 .stretched-link::after {
     position: absolute;
