@@ -31,7 +31,7 @@ $('#carouselExample').on('slide.bs.carousel', function (e) {
 });
 
 // Product slideshow
-var slideIndex = 2;
+var slideIndex = 1;
 
 window.addEventListener("load", function() {
     showSlides(slideIndex);

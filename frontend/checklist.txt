@@ -1,13 +1,13 @@
 - index page ✓
-- about baidu page ✓
+- about baidu page X
 - products page ✓
     - product 1 page ✓
     - product 2 page ✓
     - product 3 page ✓
-    - product 4 page
-    - product 5 page
+    - product 4 page ✓
+    - product 5 page ✓
 - about us
-    - about us page ✓
+    - about us page X
     - contact page ✓
     - clients page ✓
     - join page ✓
